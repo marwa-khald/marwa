@@ -1,0 +1,69 @@
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\bin\Debug\Mansour.exe
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\bin\Debug\Mansour.pdb
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\About.baml
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\ArabicRoots.baml
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\ArabicRoots.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\Mansour_MarkupCompile.cache
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\Mansour.g.resources
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\Mansour.exe
+C:\Users\windows 7\Documents\Visual Studio 2010\Projects\Mansour\Mansour\obj\x86\Debug\Mansour.pdb
+D:\Mansour\Mansour\obj\x86\Debug\Mansour.exe
+D:\Mansour\Mansour\obj\x86\Debug\Mansour.pdb
+D:\Mansour\Mansour\bin\Debug\Mansour.exe
+D:\Mansour\Mansour\bin\Debug\Mansour.pdb
+D:\Mansour\Mansour\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mansour\Mansour\obj\x86\Debug\About.baml
+D:\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.baml
+D:\Mansour\Mansour\obj\x86\Debug\ForeignWord.baml
+D:\Mansour\Mansour\obj\x86\Debug\MainWindow.baml
+D:\Mansour\Mansour\obj\x86\Debug\About.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\ForeignWord.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\MainWindow.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\App.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\Mansour_MarkupCompile.cache
+D:\Mansour\Mansour\obj\x86\Debug\Mansour.g.resources
+D:\Mansour\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+D:\Mansour\Mansour\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mansour\Mansour\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mansour\Mansour\obj\x86\Debug\wndOptions.baml
+D:\Mansour\Mansour\obj\x86\Debug\wndOptions.g.cs
+D:\Mansour\Mansour\obj\x86\Debug\App.baml
+D:\Mansour\Mansour\obj\x86\Debug\ColorPicker.baml
+D:\Mansour\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Marwa\Downloads\Mansour\Mansour\obj\x86\Debug\Mansour.exe
+C:\Users\Marwa\Downloads\Mansour\Mansour\obj\x86\Debug\Mansour.pdb
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour.csproj.GenerateResource.Cache
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\AbgadHawaz.pdb
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.Properties.Resources.resources
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.pdb

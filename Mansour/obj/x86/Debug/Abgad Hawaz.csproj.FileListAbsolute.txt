@@ -1,0 +1,22 @@
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Abgad Hawaz.csproj.GenerateResource.Cache
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour.exe
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour.pdb
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\Mansour.exe
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\Mansour.pdb
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour_MarkupCompile.cache
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\Mansour.g.resources

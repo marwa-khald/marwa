@@ -1,0 +1,209 @@
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Mansour\Mansour\bin\Debug\AbgadHawaz.pdb
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.baml
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\About.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ColorPicker.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\ForeignWord.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\MainWindow.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\wndOptions.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\App.g.cs
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.Properties.Resources.resources
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Mansour\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+F:\abgad hawaz\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+F:\abgad hawaz\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\About.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\App.baml
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.Properties.Resources.resources
+F:\abgad hawaz\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\GP\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+F:\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+F:\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+F:\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+F:\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+F:\Complete_project\Mansour\obj\x86\Debug\About.baml
+F:\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+F:\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+F:\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+F:\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+F:\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+F:\Complete_project\Mansour\obj\x86\Debug\App.baml
+F:\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+F:\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+F:\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+F:\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+F:\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+F:\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\Marwa\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ann\Desktop\23 june version\Complete_project\Mansour\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\Marwa\Desktop\final version\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\Ann\Desktop\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\Ann\Desktop\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ann\Desktop\Complete_project\Mansour\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.exe
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.pdb
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\bin\Debug\AbgadHawaz.exe
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\bin\Debug\AbgadHawaz.pdb
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csprojResolveAssemblyReference.cache
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\About.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\ColorPicker.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\ForeignWord.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\MainWindow.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\wndOptions.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\App.baml
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\About.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AnalysisDetails.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\ColorPicker.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\ForeignWord.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\MainWindow.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\wndOptions.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\App.g.cs
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz_MarkupCompile.cache
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.g.resources
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\Mansour.AllDetails.resources
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\Mansour.Properties.Resources.resources
+C:\Users\EL HANDSIA\Downloads\Complete_project\Mansour\obj\x86\Debug\AbgadHawaz.csproj.GenerateResource.Cache

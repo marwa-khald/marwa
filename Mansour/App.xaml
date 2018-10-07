@@ -1,0 +1,10 @@
+﻿<Application x:Class="Mansour.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ControlTemplate TargetType="Button" x:Key="FlatButtonTemplate">
+            <Border Name="ButtonBorder" BorderThickness="1" BorderBrush="Black" Background="{TemplateBinding Background}"/>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

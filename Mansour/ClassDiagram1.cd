@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mansour.About" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>About.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.AnalysisDetails" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnalysisDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Analyzer" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EkAAIIAAAAhABACBAAAAAQIAoEAAAQQAgAAAAACCAAQ=</HashCode>
+      <FileName>Analyzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.App" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.ColorPicker" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAoAAAAAAAUgAAAAABAAAAAIAABAAAAA=</HashCode>
+      <FileName>ColorPicker.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.ForeignWord" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAACAAAAAAAEAAEAAAAAAAACBAAAAAAAAAAI=</HashCode>
+      <FileName>ForeignWord.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Interpretation" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASABAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.GrammarRelation" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAEAgAAAQAAAAAAAAQAAAAACAAAAAAAA=</HashCode>
+      <FileName>Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Interpreter" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAABAACAAAAAAAAAAAAAAAAAQCAAAAAAAQAAA=</HashCode>
+      <FileName>Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.MainWindow" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FABAEAIBABAgMBoSwRKASIEAAQAkCAAgAAgAAKgAYAU=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Morphology" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEACAAAAAABgAACAAAAAAAAAAAAAAAAAEAAAAIAAA=</HashCode>
+      <FileName>Morphology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Tashkeel" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAABAAACAABAAAAACAAAAAAICA=</HashCode>
+      <FileName>Tashkeel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.wndOptions" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAKAAAAAgAAAABAQABMgAAAAACAAAAEAAAAAABIA=</HashCode>
+      <FileName>wndOptions.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.ArabicWord" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQ=</HashCode>
+      <FileName>WordInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.WordInfo" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABEAAACAEAAAAAQACAAAAIAAAACgQAAAEEAA=</HashCode>
+      <FileName>WordInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.WordPrefix" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAABACAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAA=</HashCode>
+      <FileName>WordPrefix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.WordSuffix" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABACAAAAAAABAAAAAAAAAAAAAAAAACAAAIAA=</HashCode>
+      <FileName>WordSuffix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mansour.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Mansour.ArabicRoot" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAAAACABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WordInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
